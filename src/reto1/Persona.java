@@ -59,5 +59,14 @@ public class Persona {
         else if (actualWeight <25) {
             System.out.println("Usted esta gordooooo");
         }
+        
+    }
+    public void mayoresAge(){
+        System.out.println("Su edad es: "+age);
+        if (age<18) {
+            System.out.println("usted es menor de edad");
+        } else {
+            System.out.println("usted es mayor de edad");
+        }
     }
 }
