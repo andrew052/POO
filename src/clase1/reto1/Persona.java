@@ -1,4 +1,4 @@
-package reto1;
+package clase1.reto1;
 import java.util.Scanner;
 public class Persona {
     Scanner read = new Scanner(System.in);
